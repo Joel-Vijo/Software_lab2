@@ -1,2 +1,2 @@
 #Program to print hello world
-print("Hemlo world")
+print("Hello world")
